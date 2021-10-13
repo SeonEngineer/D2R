@@ -1,24 +1,42 @@
 # D2R
-# 직접 수정하고싶으신 분들은 해당 파일들을 notepad++ 같은툴로 열어서 전체검색하시면 아이템이름을 금방 찾습니다
+직접 수정하고싶으신 분들은 해당 파일들을 notepad++ 같은툴로 열어서 전체검색하시면 아이템이름을 금방 찾습니다
 
 색상코드는 아래와 같습니다
+
 ÿc1 (Red)
+ 
 ÿc2 ("Set" Green)
+ 
 ÿc3 ("Magic" Blue)
+
 ÿc4 ("Unique" Gold)
+
 ÿc5 (Grey)
+
 ÿc6 (Black ~ Not visible on the profile)
+
 ÿc7 ("Unique" Gold ~ There are two)
+
 ÿc8 ("Crafted" Amber)
+
 ÿc9 ("Rare" Yellow)
+
 ÿc0 (White ~ There are two)
+
 ÿc! (Brown)
+
 ÿc" (Dark Blue)
+
 ÿc+ (Light Blue)
+
 ÿc< (Light Green)
+
 ÿc; (Purple)
+
 ÿc. (Sky Blue)
+
 ÿc* (Blue)
+
 (다크블루, 라이트블루, 스카이블루가 안된다고 하더라고요 안되는색상이 있을수도있음)
 
 <적용예시>
