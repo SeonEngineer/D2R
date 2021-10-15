@@ -6774,7 +6774,7 @@
     "esES": "Mantén pulsado <%s> para resaltar los objetos del suelo.",
     "frFR": "Maintenez <%s> enfoncé pour sélectionner des objets par terre",
     "itIT": "Tieni premuto <%s> per evidenziare gli oggetti sul terreno",
-    "koKR": "내구도수리(+충전) : [무기] 오르트+무기(+칩보석), [방어구]랄+방어구(+하보석)",
+    "koKR": "<%s> 길게 누르기 - 땅에 떨어진 아이템 표시",
     "plPL": "Przytrzymaj <%s>, aby podświetlić przedmioty na ziemi",
     "esMX": "Mantén pulsado <%s> para resaltar los objetos en el suelo",
     "jaJP": "<%s>を押し続けると地面にあるアイテムを確認できます",
@@ -19790,7 +19790,7 @@
   {
     "id": 26161,
     "Key": "StrHDHelp1",
-    "enUS": "• Hold ÿc4[%s]ÿc0 to run",
+    "enUS": "Socket ÿc4[Weapon]ÿc0Ral+Amn+ÿc;Perfect Amethystÿc0 ÿc4[Armor]ÿc0Tal+Thul+ÿc8Perfect Topazÿc0 ÿc4\n[Helm]ÿc0Ral+Thul+ÿc3Perfect Sapphireÿc0 ÿc4[Shield]ÿc0Tal+Amn+ÿc1Perfect Rubyÿc0",
     "zhTW": "• 按住 ÿc4[%s]ÿc0 可奔跑",
     "deDE": "• ÿc4[%s]ÿc0 halten, um zu rennen",
     "esES": "• Mantén pulsado ÿc4[%s]ÿc0 para correr",
@@ -19807,7 +19807,7 @@
   {
     "id": 26162,
     "Key": "StrHDHelp2",
-    "enUS": "• Hold ÿc4[%s]ÿc0 to highlight items on the ground",
+    "enUS": "Remove : (Any Socketed Item)+Hel+Scroll of Town Portal",
     "zhTW": "• 按住 ÿc4[%s]ÿc0 可顯示地面的物品",
     "deDE": "• ÿc4[%s]ÿc0 halten, um Gegenstände auf dem Boden hervorzuheben",
     "esES": "• Mantén pulsado ÿc4[%s]ÿc0 para resaltar los objetos del suelo",
@@ -19824,7 +19824,7 @@
   {
     "id": 26163,
     "Key": "StrHDHelp3",
-    "enUS": "• Hold ÿc4[%s]ÿc0 to use a skill while standing still",
+    "enUS": "Repairs(+Recharge Gem) : ÿc4[Weapon]ÿc0 Weapon+Ort(+Chipped Gem) ÿc4[Armor]ÿc0 Armor+Ral(+Flawed Gem)",
     "zhTW": "• 按住 ÿc4[%s]ÿc0 可在使用技能時站立不動",
     "deDE": "• ÿc4[%s]ÿc0 halten, um eine Fertigkeit beim Stillstehen einzusetzen",
     "esES": "• Mantén pulsado ÿc4[%s]ÿc0 para usar una habilidad sin desplazarte",
@@ -19841,7 +19841,7 @@
   {
     "id": 26164,
     "Key": "StrHDHelp4",
-    "enUS": "• Press ÿc4[%s]ÿc0 to bring up the Automap",
+    "enUS": "ÿc9Rareÿc0Armor ÿc4[Normal>Excep]ÿc0 Ral+Thul+ÿc;Perfect Amethystÿc0+Armor ÿc4[Excep>Elite]ÿc0 Ko+Pul+ÿc;Perfect Amethystÿc0+Armor",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 可開啟自動地圖",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um die automatische Karte anzuzeigen",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para abrir el mapa automático",
@@ -19858,7 +19858,7 @@
   {
     "id": 26165,
     "Key": "StrHDHelp5",
-    "enUS": "• Press ÿc4[%s]ÿc0 to bring up the Game Menu",
+    "enUS": "ÿc9Rareÿc0Weapon ÿc4[Normal>Excep]ÿc0 Ort+Amn+ÿc3Perfect Sapphireÿc0+Weapon ÿc4[Excep>Elite]ÿc0 Fal+Um+ÿc3Perfect Sapphireÿc0+Weapon",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 叫出遊戲選單",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um das Spielmenü zu öffnen",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para abrir el menú del juego",
@@ -19875,7 +19875,7 @@
   {
     "id": 26166,
     "Key": "StrHDHelp6",
-    "enUS": "• Press ÿc4[%s]ÿc0 to go into chat mode",
+    "enUS": "ÿc4Uniqueÿc0Weapon ÿc4[Normal>Excep]ÿc0 Ral+Sol+ÿc2Perfect Emeraldÿc0+Weapon ÿc4[Excep>Elite]ÿc0 Lum+Pul+ÿc2Perfect Emeraldÿc0+Weapon",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 可進入交談模式",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um den Chatmodus zu starten",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para pasar al modo de chat",
@@ -19892,7 +19892,7 @@
   {
     "id": 26167,
     "Key": "StrHDHelp7",
-    "enUS": "• While changing a Skill, press ÿc4%s-%sÿc0 while mousing over it to bind it to the hotkey",
+    "enUS": "ÿc8[Hitpower Glove]ÿc0 Magic Glove(Chain, Heavy Bracers, Vambraces)+Ort+ÿc3Perfect Sapphireÿc0+Jewel",
     "zhTW": "• 改變技能時，將滑鼠游標移至該技能並按下 ÿc4%s-%sÿc0，可將技能設定為該快捷鍵",
     "deDE": "• Beim Wählen einer Fertigkeit ÿc4%s-%sÿc0 drücken, um die Taste der Fertigkeit zuzuweisen",
     "esES": "• Mientras cambias una habilidad, pulsa ÿc4%s-%sÿc0 con el cursor del ratón sobre ella para asignarla al atajo",
@@ -19909,7 +19909,7 @@
   {
     "id": 26168,
     "Key": "StrHDHelp8",
-    "enUS": "• Press ÿc4[%s]ÿc0 to toggle between Legacy and Resurrected modes",
+    "enUS": "ÿc4Uniqueÿc0Armor ÿc4[Normal>Excep] Ko+Lem+Perfect Diamond+Armor ÿc4[Excep>Elite]ÿc0 Ko+Lem+Perfect Diamond+Armor",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 切換懷舊和獄火重生模式",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um zwischen Original- und Resurrected-Modus umzuschalten",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para alternar entre los modos Clásico y Resurrected",
@@ -19926,7 +19926,7 @@
   {
     "id": 26169,
     "Key": "StrHDHelp9",
-    "enUS": "• Press ÿc4[%s]ÿc0 to bring up the Mercenary screen",
+    "enUS": "ÿc8Blood [Ring]ÿc0 Magic Ring+Sol+ÿc1Perfect Rubyÿc0+Jewel ÿc8[Belt]ÿc0 Magic Melt(Melt, Mesh, Mithril Coil)+Tal+ÿc1Perfect Rubyÿc0+Jewel",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 叫出傭兵畫面",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um das Söldnerfenster zu öffnen",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para abrir la pantalla de mercenario",
@@ -19943,7 +19943,7 @@
   {
     "id": 26170,
     "Key": "StrHDHelp10",
-    "enUS": "• Press ÿc4[%s] + %s / %s / %s / %sÿc0 to give a belt potion to your Mercenary",
+    "enUS": "ÿc8[Blood Glove]ÿc0 Magic Glove(Heavy, Sharkskin, Vampirebone)+Nef+ÿc1Perfect Rubyÿc0+Jewel",
     "zhTW": "• 按下 ÿc4[%s] + %s / %s / %s / %sÿc0 將腰帶的藥水給予傭兵",
     "deDE": "• ÿc4[%s] + %s / %s / %s / %sÿc0 gibt einem Söldner einen Trank aus dem Gürtel",
     "esES": "• Pulsa ÿc4[%s] + %s/%s/%s/%sÿc0 para darle al mercenario una de las pociones de tu cinturón",
@@ -19960,7 +19960,7 @@
   {
     "id": 26171,
     "Key": "StrHDHelp11",
-    "enUS": "User Interface",
+    "enUS": "Horadric Cube Recipe",
     "zhTW": "使用者介面",
     "deDE": "Benutzerinterface",
     "esES": "Interfaz de usuario",
@@ -19977,7 +19977,7 @@
   {
     "id": 26172,
     "Key": "StrHDHelp12",
-    "enUS": "Gameplay",
+    "enUS": "Horadric Cube Socket / Repair / Remove",
     "zhTW": "遊戲設定",
     "deDE": "Gameplay",
     "esES": "Juego",
@@ -20385,7 +20385,7 @@
   {
     "id": 26317,
     "Key": "StrHDHelpZoomDescription",
-    "enUS": "• Press ÿc4[%s]ÿc0 to zoom the game camera in or out",
+    "enUS": "ÿc8Caster [Amulet]ÿc0 Magic Amulet+Ral+ÿc;Perfect Amethystÿc0+Jewel ÿc4[Belt]ÿc0Magic Belt(Light, Sharkskin, Vampirefang)+Ith+ÿc;Perfect Amethystÿc0+Jewel",
     "zhTW": "• 按下 ÿc4[%s]ÿc0 可拉近或拉遠遊戲鏡頭",
     "deDE": "• ÿc4[%s]ÿc0 drücken, um die Kamera heran- oder herauszuzoomen",
     "esES": "• Pulsa ÿc4[%s]ÿc0 para acercar o alejar la cámara del juego",

@@ -2,7 +2,7 @@
   {
     "id": 10902,
     "Key": "r16",
-    "enUS": "Io Rune",
+    "enUS": "ÿc1(16) ÿc8Io Rune",
     "zhTW": "符文：埃歐",
     "deDE": "[fs]Io-Rune",
     "esES": "Runa Io",
@@ -36,7 +36,7 @@
   {
     "id": 10904,
     "Key": "r13",
-    "enUS": "Shael Rune",
+    "enUS": "ÿc1(13) ÿc8Shael Rune",
     "zhTW": "符文：夏",
     "deDE": "[fs]Shael-Rune",
     "esES": "Runa Shael",
@@ -70,7 +70,7 @@
   {
     "id": 10906,
     "Key": "r31",
-    "enUS": "Jah Rune",
+    "enUS": "ÿc1(31) ÿc8Jah Rune ÿc2**",
     "zhTW": "符文：喬",
     "deDE": "[fs]Jah-Rune",
     "esES": "Runa Jah",
@@ -121,7 +121,7 @@
   {
     "id": 20440,
     "Key": "r33",
-    "enUS": "Zod Rune",
+    "enUS": "ÿc1(33) ÿc8Zod Rune ÿc2**",
     "zhTW": "符文：薩德",
     "deDE": "[fs]Zod-Rune",
     "esES": "Runa Zod",
@@ -138,7 +138,7 @@
   {
     "id": 20441,
     "Key": "r32",
-    "enUS": "Cham Rune",
+    "enUS": "ÿc1(32) ÿc8Cham Rune ÿc2**",
     "zhTW": "符文：查姆",
     "deDE": "[fs]Cham-Rune",
     "esES": "Runa Cham",
@@ -155,7 +155,7 @@
   {
     "id": 20443,
     "Key": "r30",
-    "enUS": "Ber Rune",
+    "enUS": "ÿc1(30) ÿc8Ber Rune ÿc2**",
     "zhTW": "符文：貝",
     "deDE": "[fs]Ber-Rune",
     "esES": "Runa Ber",
@@ -172,7 +172,7 @@
   {
     "id": 20444,
     "Key": "r29",
-    "enUS": "Sur Rune",
+    "enUS": "ÿc1(29) ÿc8Sur Rune ÿc2**",
     "zhTW": "符文：瑟",
     "deDE": "[fs]Sur-Rune",
     "esES": "Runa Sur",
@@ -189,7 +189,7 @@
   {
     "id": 20445,
     "Key": "r28",
-    "enUS": "Lo Rune",
+    "enUS": "ÿc1(28) ÿc8Lo Rune ÿc2**",
     "zhTW": "符文：羅",
     "deDE": "[fs]Lo-Rune",
     "esES": "Runa Lo",
@@ -206,7 +206,7 @@
   {
     "id": 20446,
     "Key": "r27",
-    "enUS": "Ohm Rune",
+    "enUS": "ÿc1(27) ÿc8Ohm Rune ÿc2*",
     "zhTW": "符文：歐姆",
     "deDE": "[fs]Ohm-Rune",
     "esES": "Runa Ohm",
@@ -223,7 +223,7 @@
   {
     "id": 20447,
     "Key": "r26",
-    "enUS": "Vex Rune",
+    "enUS": "ÿc1(26) ÿc8Vex Rune ÿc2*",
     "zhTW": "符文：伐克斯",
     "deDE": "[fs]Vex-Rune",
     "esES": "Runa Vex",
@@ -240,7 +240,7 @@
   {
     "id": 20448,
     "Key": "r25",
-    "enUS": "Gul Rune",
+    "enUS": "ÿc1(25) ÿc8Gul Rune ÿc2*",
     "zhTW": "符文：古爾",
     "deDE": "[fs]Gul-Rune",
     "esES": "Runa Gul",
@@ -257,7 +257,7 @@
   {
     "id": 20449,
     "Key": "r24",
-    "enUS": "Ist Rune",
+    "enUS": "ÿc1(24) ÿc8Ist Rune ÿc2*",
     "zhTW": "符文：伊司特",
     "deDE": "[fs]Ist-Rune",
     "esES": "Runa Ist",
@@ -274,7 +274,7 @@
   {
     "id": 20450,
     "Key": "r23",
-    "enUS": "Mal Rune",
+    "enUS": "ÿc1(24) ÿc8Mal Rune ÿc2*",
     "zhTW": "符文：馬爾",
     "deDE": "[fs]Mal-Rune",
     "esES": "Runa Mal",
@@ -291,7 +291,7 @@
   {
     "id": 20451,
     "Key": "r22",
-    "enUS": "Um Rune",
+    "enUS": "ÿc1(22) ÿc8Um Rune ÿc2*",
     "zhTW": "符文：烏姆",
     "deDE": "[fs]Um-Rune",
     "esES": "Runa Um",
@@ -308,7 +308,7 @@
   {
     "id": 20452,
     "Key": "r21",
-    "enUS": "Pul Rune",
+    "enUS": "ÿc1(21) ÿc8Pul Rune ÿc2*",
     "zhTW": "符文：普爾",
     "deDE": "[fs]Pul-Rune",
     "esES": "Runa Pul",
@@ -325,7 +325,7 @@
   {
     "id": 20453,
     "Key": "r20",
-    "enUS": "Lem Rune",
+    "enUS": "ÿc1(20) ÿc8Lem Rune ÿc2*",
     "zhTW": "符文：藍姆",
     "deDE": "[fs]Lem-Rune",
     "esES": "Runa Lem",
@@ -342,7 +342,7 @@
   {
     "id": 20454,
     "Key": "r19",
-    "enUS": "Fal Rune",
+    "enUS": "ÿc1(19) ÿc8Fal Rune",
     "zhTW": "符文：法爾",
     "deDE": "[fs]Fal-Rune",
     "esES": "Runa Fal",
@@ -359,7 +359,7 @@
   {
     "id": 20455,
     "Key": "r18",
-    "enUS": "Ko Rune",
+    "enUS": "ÿc1(18) ÿc8Ko Rune",
     "zhTW": "符文：科",
     "deDE": "[fs]Ko-Rune",
     "esES": "Runa Ko",
@@ -376,7 +376,7 @@
   {
     "id": 20456,
     "Key": "r17",
-    "enUS": "Lum Rune",
+    "enUS": "ÿc1(17) ÿc8Lum Rune",
     "zhTW": "符文：盧姆",
     "deDE": "[fs]Lum-Rune",
     "esES": "Runa Lum",
@@ -393,7 +393,7 @@
   {
     "id": 20458,
     "Key": "r15",
-    "enUS": "Hel Rune",
+    "enUS": "ÿc1(15) ÿc8Hel Rune ÿc2*",
     "zhTW": "符文：海爾",
     "deDE": "[fs]Hel-Rune",
     "esES": "Runa Hel",
@@ -410,7 +410,7 @@
   {
     "id": 20459,
     "Key": "r14",
-    "enUS": "Dol Rune",
+    "enUS": "ÿc1(14) ÿc8Dol Rune",
     "zhTW": "符文：多爾",
     "deDE": "[fs]Dol-Rune",
     "esES": "Runa Dol",
@@ -427,7 +427,7 @@
   {
     "id": 20461,
     "Key": "r12",
-    "enUS": "Sol Rune",
+    "enUS": "ÿc1(12) ÿc8Sol Rune",
     "zhTW": "符文：索爾",
     "deDE": "[fs]Sol-Rune",
     "esES": "Runa Sol",
@@ -444,7 +444,7 @@
   {
     "id": 20462,
     "Key": "r11",
-    "enUS": "Amn Rune",
+    "enUS": "ÿc1(11) ÿc8Amn Rune",
     "zhTW": "符文：安姆",
     "deDE": "[fs]Amn-Rune",
     "esES": "Runa Amn",
@@ -461,7 +461,7 @@
   {
     "id": 20463,
     "Key": "r10",
-    "enUS": "Thul Rune",
+    "enUS": "ÿc1(10) ÿc8Thul Rune",
     "zhTW": "符文：書爾",
     "deDE": "[fs]Thul-Rune",
     "esES": "Runa Thul",
@@ -478,7 +478,7 @@
   {
     "id": 20464,
     "Key": "r09",
-    "enUS": "Ort Rune",
+    "enUS": "ÿc1(9) ÿc8Ort Rune",
     "zhTW": "符文：歐特",
     "deDE": "[fs]Ort-Rune",
     "esES": "Runa Ort",
@@ -495,7 +495,7 @@
   {
     "id": 20465,
     "Key": "r08",
-    "enUS": "Ral Rune",
+    "enUS": "ÿc1(8) ÿc8Ral Rune",
     "zhTW": "符文：拉爾",
     "deDE": "[fs]Ral-Rune",
     "esES": "Runa Ral",
@@ -512,7 +512,7 @@
   {
     "id": 20466,
     "Key": "r07",
-    "enUS": "Tal Rune",
+    "enUS": "ÿc1(7) ÿc8Tal Rune",
     "zhTW": "符文：塔爾",
     "deDE": "[fs]Tal-Rune",
     "esES": "Runa Tal",
@@ -529,7 +529,7 @@
   {
     "id": 20467,
     "Key": "r06",
-    "enUS": "Ith Rune",
+    "enUS": "ÿc1(6) ÿc8Ith Rune",
     "zhTW": "符文：伊司",
     "deDE": "[fs]Ith-Rune",
     "esES": "Runa Ith",
@@ -546,7 +546,7 @@
   {
     "id": 20468,
     "Key": "r05",
-    "enUS": "Eth Rune",
+    "enUS": "ÿc1(5) ÿc8Eth Rune",
     "zhTW": "符文：愛斯",
     "deDE": "[fs]Eth-Rune",
     "esES": "Runa Eth",
@@ -563,7 +563,7 @@
   {
     "id": 20469,
     "Key": "r04",
-    "enUS": "Nef Rune",
+    "enUS": "ÿc1(4) ÿc8Nef Rune",
     "zhTW": "符文：那夫",
     "deDE": "[fs]Nef-Rune",
     "esES": "Runa Nef",
@@ -580,7 +580,7 @@
   {
     "id": 20470,
     "Key": "r03",
-    "enUS": "Tir Rune",
+    "enUS": "ÿc1(3) ÿc8Tir Rune",
     "zhTW": "符文：特爾",
     "deDE": "[fs]Tir-Rune",
     "esES": "Runa Tir",
@@ -597,7 +597,7 @@
   {
     "id": 20471,
     "Key": "r02",
-    "enUS": "Eld Rune",
+    "enUS": "ÿc1(2) ÿc8Eld Rune",
     "zhTW": "符文：艾德",
     "deDE": "[fs]Eld-Rune",
     "esES": "Runa Eld",
@@ -614,7 +614,7 @@
   {
     "id": 20472,
     "Key": "r01",
-    "enUS": "El Rune",
+    "enUS": "ÿc1(1) ÿc8El Rune",
     "zhTW": "符文：艾爾",
     "deDE": "[fs]El-Rune",
     "esES": "Runa El",
